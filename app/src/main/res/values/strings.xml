@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simon</string>
+    <string name="startGame">Start game</string>
+    <string name="scoreBoard">Score board</string>
+    <string name="start">Start</string>
+    <string name="level">Level </string>
+    <string name="levelNumber">1</string>
+    <string name="gameOver">Game over</string>
+    <string name="score">Score</string>
+    <string name="addToScoreBoard">Add to score board</string>
+    <string name="savedMsg">Your result has been saved successfully</string>
+    <string name="enterName">Enter name</string>
+</resources>

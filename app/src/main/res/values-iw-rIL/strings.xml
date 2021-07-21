@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">סיימון</string>
+    <string name="startGame">התחל משחק</string>
+    <string name="scoreBoard">לוח תוצאות</string>
+    <string name="start">התחל</string>
+    <string name="level">שלב </string>
+    <string name="levelNumber">1</string>
+    <string name="gameOver">המשחק נגמר</string>
+    <string name="score">תוצאה</string>
+    <string name="addToScoreBoard">הוסף ללוח תוצאות</string>
+    <string name="savedMsg">תוצאתך נשמרה בהצלחה!</string>
+    <string name="enterName">הכנס שם</string>
+</resources>
